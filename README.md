@@ -1,2 +1,3 @@
 # webdev
-Demo of our Web development website
+Demo of our Web development website.
+
